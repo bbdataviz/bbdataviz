@@ -1,4 +1,8 @@
-### Developer-designer focused on interactive frontend systems, data visualization, and user-centered interfaces. Background in Computational Visualistics and Communication Design with a strong interest in transforming complex data into intuitive and engaging experiences through visualization, storytelling, and modern web technologies.
+---
+
+<em>Developer-designer focused on interactive frontend systems, data visualization, and user-centered interfaces. Background in Computational Visualistics and Communication Design with a strong interest in transforming complex data into intuitive and engaging experiences through visualization, storytelling, and modern web technologies.<em>
+
+---
 
 ## Interactive frontend systems
 
