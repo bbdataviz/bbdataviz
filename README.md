@@ -18,6 +18,7 @@ Romvær — a responsive real-time space weather dashboard using NOAA SWPC APIs,
 
 ---
 
+<!--
 ## Tech stack
   
 ### Frontend 
