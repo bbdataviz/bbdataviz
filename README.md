@@ -22,7 +22,7 @@ Romvær — a responsive real-time space weather dashboard using NOAA SWPC APIs,
 
 | Frontend | Visualization | Programming & Data | Tools |
 |---|---|---|---|
-|- React - TypeScript - JavaScript - Vite - HTML5 & CSS3 - API integration |
+| <ul> <li>React</li> <li>TypeScript</li> <li>JavaScript</li> <li>Vite</li> <li>HTML5 & CSS3</li> <li>API integration</li> </ui>|
 - Highcharts
 - D3.js
 - Altair
