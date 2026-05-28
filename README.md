@@ -1,6 +1,6 @@
 ---
 
-<em>Developer-designer focused on interactive frontend systems, data visualization, and user-centered interfaces. Background in Computational Visualistics and Communication Design with a strong interest in transforming complex data into intuitive and engaging experiences through visualization, storytelling, and modern web technologies.<em>
+<em>Developer-designer focused on interactive frontend systems, data visualization, and user-centered interfaces. Background in Computational Visualistics and Communication Design with a strong interest in transforming complex data into intuitive and engaging experiences through visualization, storytelling, and modern web technologies.</em>
 
 ---
 
@@ -11,9 +11,13 @@
 - Visualization UX
 - Storytelling through interfaces
 
+---
+
 ## Currently building
 
 Romvær — a responsive real-time space weather dashboard using NOAA SWPC APIs, React, TypeScript, and Highcharts.
+
+---
 
 ## Tech stack section
 
@@ -38,6 +42,8 @@ Romvær — a responsive real-time space weather dashboard using NOAA SWPC APIs,
 - Git
 - VS Code
 - Figma
+
+---
 
 <!--
 **bbdataviz/bbdataviz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
