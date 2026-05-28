@@ -11,15 +11,12 @@
 - Visualization UX
 - Storytelling through interfaces
 
----
 
 ## Currently building
 
 Romvær — a responsive real-time space weather dashboard using NOAA SWPC APIs, React, TypeScript, and Highcharts.
 
----
-
-## Tech stack section
+## Tech stack
 
 ### Frontend
 - React
