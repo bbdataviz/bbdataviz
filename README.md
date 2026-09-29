@@ -17,7 +17,7 @@
 
 Romvær — a responsive real-time space weather dashboard using NOAA SWPC APIs, React, TypeScript, and Highcharts.
 
-<b>Salary Tracker<b> — a small frontend application for tracking work shifts and estimating salary based on working hours, evening/night periods, and weekends. Built with React, TypeScript, and Highcharts.
+<b>Salary Tracker</b> — a small frontend application for tracking work shifts and estimating salary based on working hours, evening/night periods, and weekends. Built with React, TypeScript, and Highcharts.
 
 <!--
 ## Tech stack
